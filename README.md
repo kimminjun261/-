@@ -1,65 +1,4 @@
-<!DOCTYPE html>
-<html lang="ko">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Where's the Kid?</title>
-  <style>
-    body {
-      margin: 0;
-      padding: 0;
-      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-      background-color: #f2f2f2;
-      color: #222;
-      line-height: 1.6;
-    }
-    header {
-      background-color: #111;
-      color: white;
-      padding: 2rem;
-      text-align: center;
-    }
-    header h1 {
-      margin: 0;
-      font-size: 2.5rem;
-    }
-    .container {
-      max-width: 900px;
-      margin: 2rem auto;
-      padding: 1rem;
-      background: white;
-      box-shadow: 0 0 10px rgba(0,0,0,0.1);
-    }
-    .image-container {
-      text-align: center;
-      margin-bottom: 2rem;
-    }
-    .image-container img {
-      max-width: 100%;
-      height: auto;
-      border: 2px solid #ddd;
-    }
-    h2 {
-      margin-top: 2rem;
-      color: #333;
-    }
-    ul {
-      padding-left: 1.5rem;
-    }
-    footer {
-      text-align: center;
-      padding: 2rem;
-      font-size: 0.9rem;
-      color: #666;
-    }
-    a {
-      color: #0077cc;
-      text-decoration: none;
-    }
-    a:hover {
-      text-decoration: underline;
-    }
-  </style>
+
 </head>
 <body>
 
@@ -69,11 +8,6 @@
 </header>
 
 <main class="container">
-  <div class="image-container">
-    <img src="your-image-url.jpg" alt="Where's the Kid? Artwork">
-    <!-- 이미지 URL을 실제 주소로 바꾸세요 -->
-  </div>
-
   <section>
     <h2>작품 설명</h2>
     <p>
@@ -108,10 +42,6 @@
     </ul>
   </section>
 </main>
-
-<footer>
-  ⓒ 2025 사회풍자 프로젝트 | Designed by 김민준
-</footer>
 
 </body>
 </html>
